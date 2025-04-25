@@ -132,3 +132,4 @@ via*.json
 !/keyboards/zsa/**/keymaps/oryx/**
 !/keyboards/zsa/**/keymaps/nigel
 !/keyboards/zsa/**/keymaps/nigel/**
+bin/
